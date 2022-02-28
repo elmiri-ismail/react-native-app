@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import Header2 from './header2';
 import {
   StyleSheet,
   Text,
